@@ -1,2 +1,2 @@
-# HackerRank_Probem_Solving
-this for solving problem and python  form hackerrank website 
+# HackerRank_Problem_Solving
+This for solving problems and python  from hacker rank website 
